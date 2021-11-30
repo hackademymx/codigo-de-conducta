@@ -1,4 +1,4 @@
-# Código de Conduta | Hackademy
+# Código de Conducta | Hackademy
 ------
 Esta comunidad ha sido creada por Hackademy para los Padawans que estan en el bootcamp para compartir conocimientos y ayudarnos mutuamente compartiendo dudas, preguntas, temas relacionados al desarrollo de los proyectos que se llevan a cabo en Hackademy o simplemente convivir, sin importar su edad, carrera, posición económica, creencias culturales, institución educativa de procedencia, raza, creencia religiosa, creencia política o alguna otra creencia o sector de la población; dentro de la comunidad de Hackademy partimos desde el respeto para poder interactuar y llevar de mejor manera las dinámicas propuestas por quienes dirigen Hackademy y miembros de la comunidad, es por esto que nos tratamos y dirigimos con respeto hacia todos y todas los y las participantes con la finalidad de ser una comunidad inclusiva y accesible para la mayoría de las personas, y finalmente crear un espacio seguro en donde todos y todas puedan expresar sus dudas, inquietudes, preguntas y con esto poder seguir aprendiendo y avanzando como personas, como profesionistas y como comunidad.
 
